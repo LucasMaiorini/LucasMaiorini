@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F72BF3&size=26&center=true&vCenter=true&width=480&lines=Developer+%7C+Designer+%7C+Curious;Angular+%7C+.Net+%7C+Sql+Server">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F72BF3&size=26&center=true&vCenter=true&width=480&lines=Developer+%7C+Designer+%7C+Curious;Angular+%7C+.Net+%7C+and+stuff">
 </p>
 
 <h3 align="center">
