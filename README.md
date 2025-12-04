@@ -11,12 +11,7 @@
   <img src="https://media4.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif?cid=790b76111b97d85347a871324db49c901538241d848093c9&rid=giphy.gif&ct=s" width="68">
 </h3>
 
- <div align="center">
-  <a href="https://github.com/LucasMaiorini">
-  <img height="180em" left="100em" src="https://github-readme-stats.vercel.app/api?username=LucasMaiorini&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMaiorini&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-  
+
   <h2>Skills</h2>
 
   <div style="display: inline_block" align="center"><br>
